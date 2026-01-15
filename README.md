@@ -1,5 +1,6 @@
 
-![LinkedIn banner 2](https://github.com/user-attachments/assets/55c52c91-6c93-4a83-bd11-691652031709)
+![Aditya Divakar (1)](https://github.com/user-attachments/assets/26d264e3-038e-4828-949d-91bee45ade0c)
+
 
 <h1 align="left">Hey!👋</h1>
 
