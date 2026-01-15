@@ -1,5 +1,5 @@
 
-![LinkedIn banner 2](https://github.com/user-attachments/assets/23aa57ef-c685-4099-bc7e-0c6fcb967bee)
+![LinkedIn banner 2](https://github.com/user-attachments/assets/55c52c91-6c93-4a83-bd11-691652031709)
 
 <h1 align="left">Hey!👋</h1>
 
