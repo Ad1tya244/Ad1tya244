@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a tech and automotive enthusiast with a strong foundation in full-stack development, cybersecurity fundamentals, 3D modeling, and user-centric UI/UX design.<br><br>I take a creative, design-driven approach to engineering by combining technical precision with intuitive user experiences to build impactful solutions. I’m skilled in Python, Java, and C, with solid problem-solving and system-thinking abilities.<br><br>Currently expanding my cybersecurity skillset through tool based learning by developing a homelab.</p>
+<p align="left">I'm a tech and automotive enthusiast with a strong foundation in full-stack development, cybersecurity, 3D modeling, and user-centric UI/UX design.<br><br>I take a creative, design-driven approach to engineering by combining technical precision with intuitive user experiences to build impactful solutions. I’m skilled in Python, Java, and C.<br></p>
 
 ###
 
