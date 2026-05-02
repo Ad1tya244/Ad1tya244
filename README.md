@@ -2,7 +2,7 @@
 ![Aditya Divakar](https://github.com/user-attachments/assets/8f86d486-2712-490f-b640-d7aefaee6669)
 
 
-<h1 align="left">Hey!👋</h1>
+<h1 align="left">$_hello world...</h1>
 
 ###
 
