@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Aditya Divakar, a 3rd-year Computer Science Engineering student at BMS Institute of Technology & Management (BMSIT&M).</p>
+<p align="left">I'm Aditya Divakar a.k.a. frostbite, a 3rd-year Computer Science Engineering student at BMS Institute of Technology & Management (BMSIT&M).</p>
 
 ###
 
