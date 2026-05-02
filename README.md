@@ -1,5 +1,5 @@
 
-![Aditya Divakar](https://github.com/user-attachments/assets/60ef0b00-6ca1-4b7b-b5b3-04578f9f1a28)
+![Aditya Divakar](https://github.com/user-attachments/assets/8f86d486-2712-490f-b640-d7aefaee6669)
 
 
 <h1 align="left">Hey!👋</h1>
