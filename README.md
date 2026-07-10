@@ -1,3 +1,3 @@
 <p align="center">
-<img width="1101" height="553" alt="Github ASCII banner" src="https://github.com/user-attachments/assets/176bfa47-a7fe-4949-9552-3b3c3de3fca3" />
+  <img width="1366" height="768" alt="Aditya Divakar" src="https://github.com/user-attachments/assets/c3206806-3477-46b3-88b9-a6782d59cb8c" />
 </p>
